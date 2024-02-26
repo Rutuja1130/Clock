@@ -1,0 +1,8 @@
+his project features a digital clock designed with HTML, CSS, and JavaScript.
+It dynamically displays the current time with hour, minute, and second hands. 
+To view the clock, open index.html in a web browser. 
+Customize its appearance by modifying the styles in style.css. 
+JavaScript is used to calculate and update the time dynamically in real-time.
+
+
+
